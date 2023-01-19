@@ -1,11 +1,3 @@
-## Hi there 👋
+## Keep Your Boat Afloat 🛥️
 
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+KYBA Project (Keep Your Boat Afloat)is a web application that will allow users to register their boat, boat motors, boat electronics and fishing gear. If their item is ever stolen they will be able to mark it as stolen on the website, and all of the users within their geographic area will be notified so that they can keep an eye out for the stolen property. Users can upload pictures and provide details such as police report numbers, last location seen, and other identifying factors. The app will also provide a map-GUI that will show all reports of stolen items near them, and users will be able to generate statistics of reported thefts in their area. At some point we may decide to add the ability for users to post a reward for a successful recovery of their property, and the website will offer escrow capabilities for this service.
